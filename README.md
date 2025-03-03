@@ -1,4 +1,10 @@
 # Agriculture Data Analysis with Power BI, AWS S3 & Snowflake
+![image alt](https://github.com/nilwagh8800/Agriculture-Data-Analysis-with-Power-BI-AWS-S3-Snowflake/blob/32914152680bd515bb9448bc4e3d224909cd790b/Screenshot%202025-03-03%20171934.png)
+
+![image alt](https://github.com/nilwagh8800/Agriculture-Data-Analysis-with-Power-BI-AWS-S3-Snowflake/blob/32914152680bd515bb9448bc4e3d224909cd790b/Screenshot%202025-03-03%20172436.png)
+
+![image alt](https://github.com/nilwagh8800/Agriculture-Data-Analysis-with-Power-BI-AWS-S3-Snowflake/blob/32914152680bd515bb9448bc4e3d224909cd790b/Screenshot%202025-03-03%20175536.png)
+
 # Project Overview
 This project analyzes rainfall, temperature, humidity, and crop yield data to uncover insights into agricultural productivity. 
 

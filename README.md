@@ -21,36 +21,66 @@ Data Visualization: Power BI
 
 # Key Analyses
 
-# Rainfall Analysis
-Monthly and yearly rainfall trends
+# Yield Analysis
+Metric: Average Crop Yield
 
-Impact of rainfall on crop yield
+Breakdowns: By Year, Season, Crop, and Location
 
-Comparison of rainfall across regions
+Key Insights:
+
+Certain seasons produced higher yields due to ideal temperature and rainfall.
+Regional differences in yield highlight the impact of soil quality and climate.
+Specific crops thrive in different locations based on environmental factors.
 
 # Temperature Analysis
 
-Seasonal temperature variations
+Metric: Average Temperature (°C)
 
-Correlation between temperature and yield
+Breakdowns: By Year, Season, Crop, and Location
 
-Identifying extreme temperature impacts
+Key Insights:
+
+Some regions experience higher temperature fluctuations, impacting sensitive crops.
+
+Seasonal temperature variations play a key role in determining planting and harvesting periods.
+
+Helps farmers choose temperature-resilient crops for better productivity.
+
+# Rainfall Analysis
+
+Metric: Average Rainfall (mm)
+
+Breakdowns: By Year, Season, Crop, and Location
+
+Key Insights:
+
+Monsoon seasons significantly impact water-intensive crops.
+
+Regions with low rainfall require better irrigation planning.
+
+Rainfall fluctuations influence seasonal crop yield and farming cycles.
 
 # Humidity Analysis
 
-Humidity trends over time
+Metric: Average Humidity (%)
 
-Relationship between humidity and crop production
+Breakdowns: By Year, Season, Crop, and Location
 
-Impact of high/low humidity on different crops
+Key Insights:
 
-# Yield Analysis
+High humidity levels increase disease risks in certain crops.
 
-Crop yield comparison by region
+Dry seasons with low humidity impact crop moisture retention and growth.
 
-Influence of climatic factors on productivity
+Helps in predicting climate impact on future farming practices.
 
-Identifying the most favorable conditions for high yield
+# Final Insights
+
+🔹 Combining all four factors helps in understanding optimal farming conditions.
+
+🔹 Farmers can adapt their crop choices based on seasonal weather trends.
+
+🔹 Data-driven strategies help improve yield forecasting and sustainable farming.
 
 # Project Workflow
 
